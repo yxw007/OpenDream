@@ -24,3 +24,8 @@ TODO:
 
 个人微信
 ![alt text](assets/image-1.png)
+
+
+## 许可证
+
+OpenDream 是在 MIT 许可证下发布的。详情请见 [`LICENSE`](./LICENSE) 文件。
