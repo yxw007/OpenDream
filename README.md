@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="assets/1.jpg" alt="alt text" width="200" />
-  <img src="assets/2.jpg" alt="alt text" width="200" />
 </p>
 
 > 提示：如果二维码过期，可加我微信拉你入群
